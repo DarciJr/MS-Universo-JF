@@ -11,3 +11,5 @@
 <font size="6">  2019.2 - Darci José Mendes Júnior
 </font>
 </p>
+
+Motivação para seguir como Analísta de Sistema: Criar ferramentas que auxiliem as pessoas e facilitem seus trabalhos.
